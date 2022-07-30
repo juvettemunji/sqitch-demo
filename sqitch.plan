@@ -2,3 +2,4 @@
 %project=testdb
 %uri=https://medifastinc.com/repo/database
 
+appschema 2022-07-30T10:19:56Z juvette munji <juvette.munji@medifastinc.com> # Add schema for all flipr objects.
