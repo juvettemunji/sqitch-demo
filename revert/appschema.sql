@@ -3,6 +3,5 @@
 BEGIN;
 
 DROP SCHEMA flipr;
-DROP DATABASE testing;
 
 COMMIT;
